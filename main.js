@@ -1,4 +1,9 @@
 $(function () {
+
+
+
+
+
     var canvas = $('#canvas')[0];
     canvas.width = $(window).width();
     canvas.height = $(window).height();
